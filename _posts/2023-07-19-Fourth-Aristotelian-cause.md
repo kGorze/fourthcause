@@ -4,6 +4,8 @@ title: "Fourth Aristotelian cause"
 date: 2023-07-19 21:26:49 +0100
 ---
 
+[SOME PART WERE ~~STOLEN~~ BORROWED FROM LUKE](https://lukesmith.xyz/articles/we-want-our-4-causes-back/)
+
 
 # Introduction to the topic
 I was recently inspired by different perspectives on life after reading a blog post from a certain author[^10] that touched on the topic of swapping an iPhone for a Nissan, listening to a speech by a youtuber[^11], watching footage from a visitor from Thailand[^12], browsing content on TikTok, and learning about the frustrations of a certain Internet user[^13]. This experience ultimately made me realize how diverse the approaches of people who are trying to create their lives in the modern world are.
