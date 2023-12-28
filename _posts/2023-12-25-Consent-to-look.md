@@ -1,0 +1,50 @@
+---
+layout: "post"
+title: "Consent to look"
+date: 2023-08-27 10:00:00 +0100
+published: true
+
+---
+
+Recently I had a conversation with a girl about physical fitness. At some point, gym workouts became the topic of our discussion. The interviewee mentioned her intention to start working out at the gym as soon as she had a male companion. This decision stemmed from her aversion to the unwanted attention her figure attracted from other observers.
+
+This conversation and events in the West made me think about safety, autonomy, sexual assault, and norms regarding the phenomenon of rape. In this case, she believes, and probably some part of the women, that a pushy look should be forbidden.
+In order to conclude that a crime has been committed, there must actually be an act by a human being, the nature of which corresponds to any of the types of prohibited acts in the Criminal Code.
+
+In addition, the act must be unlawful, punishable and culpable. For the purposes of this article, I will limit myself to the first two elements, but outlining the others, in my opinion, is useful for realizing that crime is a multi-element structure.
+
+---
+
+The prohibited act is decomposed into an object side and a subject side. The first refers to the external behavior of a person. In turn, the second relates to the mental attitude of the perpetrator to the act - we distinguish the intellectual plane related to consciousness, i.e. the reflection in the perpetrator's mind of the elements of reality relevant to the elements set forth in the criminal statute, and the volitional one referring to the decision-making process after a person has received the stimuli and processed them. This decision-making process pertains to intentionality - either direct intent (willingness, intentionality of the action) or alternative intent (willingness) - or unintentionality on the part of the perpetrator of the act.
+
+**Let's now turn to the notorious Article 197 § 1 of the Criminal Code, according to which criminal liability is incurred by anyone who, by means of violence, unlawful threat or deception, brings another person to sexual intercourse. This provision makes the recognition of a specific act as rape conditional on the use of violence, that is, any use of physical force aimed at breaking the resistance of the victim or preventing resistance in general, unlawful threat, which means affecting the mental sphere of a person by inducing fear leading to the submission of the individual, or deception consisting of misleading the victim or taking advantage of the mistake in which the person is already in.The effect of these actions is to bring a person to sexual intercourse. This is the subject side of the type of criminal act of rape in the briefest of terms.**  
+  
+As for the subjective side, this act can only be committed intentionally, with direct intent. This means that the perpetrator must be aware that his behavior corresponds to at least one of the three above-described means of influencing the victim, and must want to bring the victim to sexual intercourse. The restriction of the possibility of committing the criminal act of rape to direct intent is due to the behavioral characteristics of violence, unlawful threat and deception, which indicate the intentionality of the perpetrator's actions.  
+
+It is also worth mentioning that the perpetrator's conduct need not be related to the pursuit of sexual gratification, but may be aimed at humiliating the victim, which may be manifested by intercourse with her in a manner inconsistent with her will.
+  
+
+---
+
+*The above clearly indicates that the criminal act of rape is inextricably linked to the victim's lack of consent to sex. This is obvious in the case of the use of violence or threats, while in the case of the use of deception, it should be pointed out that the person on whom it is directed remains in error as to the reality and is inclined to have sexual intercourse, and therefore does not actually consent to it. Certain conventions that people use in the sexual sphere, judging from the outside, may be perceived as violence or threats, but they are not taken seriously and are closely related to consent.*  
+
+
+
+Reality shows that despite the reporting of incidents of rape to the services, there are a number of discontinuations of pre-trial proceedings or already at later stages of the process the acquittal of defendants by the Courts - this happens exceptionally. However, one should keep in mind the comments made above and the evidentiary difficulties faced by the Prosecutor's Office and the Police.
+
+I recently read a case where the Prosecutor's Office discontinued the case due to lack of evidentiary possibilities. However, this was not an arbitrary decision of the Prosecutor resulting from his bad will, but the result of contradictions emerging from the evidence gathered in the case - different versions of the event given by the notifier - the victim, who allegedly had unwitting sex while under the influence of alcohol with her boyfriend's friend, and the suspect, who claimed that the intercourse was voluntary.
+
+
+At the same time, there was no possibility of taking other evidentiary steps to verify the circumstances alleged by the named. Doubts that cannot be removed are resolved in favor of the accused. This is one of the main principles of the criminal process, the consequence of which can actually be the avoidance of criminal responsibility by the perpetrator and the passing of the truth. On the other hand, it can be quite the opposite. We must realize the importance of recognizing a certain person as a criminal, and in particular as a rapist, and the condemnation that comes with it. Deciding on such a designation requires qualified caution. It is also necessary to note that the aforementioned condemnation is legitimate provided that the perpetrator had a certain mental attitude towards the act he undertook, which determines the commission of the crime, and in turn affects the penalty. If we assume a completely abstract situation in which a person is unaware of the lack of consent of the person with whom he has sexual intercourse, then, in my opinion, it is impossible to accuse him of committing rape. **After all, we don't know how he would have behaved in the event of an explicit objection - perhaps he would have refrained from further acts. Of course, such a person can be accused of failing to make an effort to ascertain the other person's actual attitude towards him, but in my humble opinion, this is not enough to make such a person, unaware of the actual breaking of resistance, which deserves special criticism, a criminal.
+
+On the other hand, we can learn from the victims' accounts that by the perpetrator's action they were paralyzed by fear and did not actively resist. Consider, however, that targeting a person who does not want to have sexual intercourse will, as a rule, be met with resistance at the stage preceding it through reflexive force, and therefore the perpetrator will be forced to use violence. Although the examples cited cannot be firmly considered unrealistic, in my opinion they can occur quite exceptionally.
+
+The claim, mentioned at the outset, that non-consensual sex is not treated as rape, actually boils down to an expectation by certain circles, the introduction of an obligation to make consensual statements of intent before engaging in sexual intercourse. While the expression of such a will is clear to a civilized person, given that this expectation is closely related to safeguarding the interests of potential victims through protection by state services, in practice this obligation must take the form of a formalized consent procedure, not an implied form. Otherwise, due to the evidentiary difficulties inherent in rape cases, the postulated change would not have significant practical significance, and on the other hand, those undertaking sexual intercourse might feel fear of prosecution. It is also worth noting that the lack of consent given, which would be recorded, for example, electronically on an application designed for this purpose, would not significantly offset the difficulties faced by law enforcement agencies in the reality of the current norms. After all, the perpetrator could defend himself on the grounds that he and the victim forgot to record consent, as long as there was no evidence prejudging his rape. **No unless, in practice, the burden of proving consent would be shifted to the suspected person. Such a solution, however, contradicts the principles of the criminal process.
+
+---
+
+**Admittedly, in a particular form of defamation, there is indeed a burden of proof on the accused** - but this applies only to the issue of his proving that his claims were true, which excludes the **illegality** of his action. It should be noted that this is completely exceptional and applies to a crime of modest, in relation to rape, gravity, and, moreover, prosecuted by private prosecution.
+
+I encourage you to read the Criminal Code, which provides for a wide range of actions constituting different varieties of rape, which are described in paragraphs and articles following Article 197 § 1 of the Criminal Code, which in my opinion, taking into account the comments made, proves that Polish norms are as legitimate as possible. Another problem is the effectiveness of law enforcement agencies or the resistance of judges to impose harsh punishments, who are steeped in liberal thinking and great faith in rehabilitation. It is also worth realizing that media coverage, as a rule, is not a substitute for reading the **act of a particular case**.
+
+The problem indicated above is, in my opinion, one of the forms, not necessarily intended, of disenchantment of the world, and therefore of love given that in most cases we do not want to rape after all, but that is a topic for another article.
