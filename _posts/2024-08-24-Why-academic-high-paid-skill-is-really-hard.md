@@ -2,7 +2,7 @@
 layout: "post"
 title: "Why academic high paid skill is really hard"
 date: "2024-08-23 10:00:00 +0100"
-published: true
+published: false
 ---
 
 - academic program as a main idea for a main work

@@ -2,6 +2,7 @@
 layout: "post"
 title: "Fourth Aristotelian cause"
 date: 2023-07-19 21:26:49 +0100
+published: true
 ---
 
 [SOME IDEAS WERE ~~INSPIRED~~ BY LUKE](https://lukesmith.xyz/articles/we-want-our-4-causes-back/)

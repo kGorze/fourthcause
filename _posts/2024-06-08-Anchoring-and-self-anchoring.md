@@ -2,7 +2,7 @@
 layout: "post"
 title: "Anchoring and self-anchoring"
 date: 2024-06-08 10:00:00 +0100
-published: true
+published: false
 ---
 
 

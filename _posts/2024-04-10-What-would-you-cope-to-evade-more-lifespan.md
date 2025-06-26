@@ -2,7 +2,7 @@
 layout: "post"
 title: "What would you cope to evade more lifespan"
 date: 2024-04-09 10:00:00 +0100
-published: true
+published: false
 ---
 
 [Research on Valuing Additional Life Years](https://blog.sterlingfoundations.com/2024/01/02/what-would-you-pay-for-an-extra-year-of-life/)

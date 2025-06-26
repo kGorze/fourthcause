@@ -2,7 +2,7 @@
 layout: "post"
 title: "Things you are allowed to do"
 date: "2024-06-25 10:00:00 +0100"
-published: true
+published: false
 ---
 
 ## Making the Most of Your Resources
